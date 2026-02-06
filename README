@@ -1,0 +1,28 @@
+# 📚 Library Management System (Java – OOP)
+
+## Project Overview
+The Library Management System is a console-based Java application developed using Object-Oriented Programming principles. It allows management of books and library members with features such as adding books, registering members, searching books, borrowing and returning books, and due date tracking.
+
+The project is developed using Visual Studio Code and Java.
+
+---
+
+## Features
+- Add new books to the library
+- Register new library members
+- Display all books and available books
+- Search books by title or author
+- Borrow and return books
+- Due date calculation for borrowed books
+- Menu-driven user interface
+
+---
+
+## Technologies Used
+- Programming Language: Java
+- IDE: Visual Studio Code (VS Code)
+- Java Version: JDK 8 or above
+
+---
+
+## Project Structure
